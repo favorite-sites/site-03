@@ -32,3 +32,8 @@ http://www.kocw.net/home/cview.do?cid=c348eb4817f32f25
 
 https://www.youtube.com/channel/UCGC6DM7D-ezpTxhdplFlbog/playlists
 
+// COCW 물리학 강의
+
+http://www.kocw.net/home/search/search.do
+
+
