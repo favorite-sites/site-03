@@ -36,4 +36,39 @@ https://www.youtube.com/channel/UCGC6DM7D-ezpTxhdplFlbog/playlists
 
 http://www.kocw.net/home/search/search.do
 
+// OpenAI 깃허브
+
+https://github.com/orgs/openai/repositories?type=all
+
+// 케라스 예제
+
+https://keras.io/examples
+
+// 다이렉트엑스12 머신러닝
+
+https://github.com/sdi1982/DirectML-DirectX-12-library-for-machine-learning
+
+// 마이크로소프트 ML.NET
+
+https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet
+
+// 파이썬 예제
+
+https://medium.com/coders-camp/130-python-projects-with-source-code-61f498591bb
+
+// 부스트 Math 라이브러리
+
+https://valelab4.ucsf.edu/svn/3rdpartypublic/boost/libs/libraries.htm
+
+// KOCW 빅데이터 강의
+
+http://www.kocw.net/home/search/search.do
+
+// 스탠퍼드 그래프 ML 수업자료
+
+https://web.stanford.edu/class/cs224w/
+
+// 울산대 법학
+
+http://www.kocw.net/home/search/search.do?query=%EB%B2%95%ED%95%99
 
