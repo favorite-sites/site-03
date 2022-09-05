@@ -2,7 +2,7 @@
 
 // COCW 대학수학
 
-http://www.kocw.net/home/search/search.do
+http://www.kocw.net/home/search/search.do?query=%EB%8C%80%ED%95%99%EC%88%98%ED%95%99
 
 // 탑그레이드
 
@@ -62,7 +62,7 @@ https://valelab4.ucsf.edu/svn/3rdpartypublic/boost/libs/libraries.htm
 
 // KOCW 빅데이터 강의
 
-[http://www.kocw.net/home/search/search.do](http://www.kocw.net/home/search/search.do?query=%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0)
+http://www.kocw.net/home/search/search.do?query=%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0
 
 // 스탠퍼드 그래프 ML 수업자료
 
