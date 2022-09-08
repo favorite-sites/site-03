@@ -34,7 +34,7 @@ https://www.youtube.com/channel/UCGC6DM7D-ezpTxhdplFlbog/playlists
 
 // COCW 물리학 강의
 
-http://www.kocw.net/home/search/search.do
+http://www.kocw.net/home/search/search.do?query=%EB%AC%BC%EB%A6%AC%ED%95%99
 
 // OpenAI 깃허브
 
