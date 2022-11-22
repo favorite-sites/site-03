@@ -4,10 +4,6 @@
 
 http://www.kocw.net/home/search/search.do?query=%EB%8C%80%ED%95%99%EC%88%98%ED%95%99
 
-// 탑그레이드
-
-https://www.youtube.com/channel/UCoKZbldDESdlPalGy7ghB6w/playlists
-
 // 권태원 큐스터디
 
 https://www.youtube.com/user/mathlatte/playlists
