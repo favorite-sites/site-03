@@ -1,5 +1,9 @@
 # 수학과 딥러닝 물리학 강의
 
+// 차동우교수님 물리학강의
+
+https://www.youtube.com/@dcha/playlists
+
 // COCW 대학수학
 
 http://www.kocw.net/home/search/search.do?query=%EB%8C%80%ED%95%99%EC%88%98%ED%95%99
