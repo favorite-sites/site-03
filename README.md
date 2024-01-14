@@ -1,5 +1,9 @@
 # 수학과 딥러닝 물리학 강의
 
+// 네이쳐오브코드
+
+https://youtube.com/playlist?list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK&si=2_CiQbCFZwwzuXUX
+
 // 차동우교수님 물리학강의
 
 https://www.youtube.com/@dcha/playlists
