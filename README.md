@@ -1,8 +1,12 @@
 # 수학과 딥러닝 물리학 강의
 
-// 네이쳐오브코드
+// 네이쳐오브코드 강의
 
 https://youtube.com/playlist?list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK&si=2_CiQbCFZwwzuXUX
+
+// BOX2D 물리엔진 강의
+
+https://youtube.com/playlist?list=PLRqwX-V7Uu6Zy4FyZtCHsZc_K0BrXzxfE&si=nxHxKig2h_kNTj-j
 
 // 차동우교수님 물리학강의
 
