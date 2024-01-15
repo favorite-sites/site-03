@@ -8,7 +8,7 @@ https://youtube.com/playlist?list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK&si=2_CiQbCF
 
 https://youtube.com/playlist?list=PLRqwX-V7Uu6Zy4FyZtCHsZc_K0BrXzxfE&si=nxHxKig2h_kNTj-j
 
-// 차동우교수님 물리학강의
+// 인하대학교 차동우 교수님 물리학강의
 
 https://www.youtube.com/@dcha/playlists
 
